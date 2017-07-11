@@ -23,6 +23,12 @@ namespace ProjetoBanco.Controllers
             return View(db.logins.ToList());
         }
 
+        // GET: logins
+        public ActionResult login()
+        {
+            return View();
+        }
+
         // GET: logins/Details/5
         public ActionResult Details(int? id)
         {

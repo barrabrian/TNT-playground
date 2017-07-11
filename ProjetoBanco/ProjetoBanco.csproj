@@ -222,6 +222,7 @@
     <Content Include="Views\logins\Details.cshtml" />
     <Content Include="Views\logins\Edit.cshtml" />
     <Content Include="Views\logins\Index.cshtml" />
+    <Content Include="Views\logins\login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
